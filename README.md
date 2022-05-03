@@ -15,3 +15,7 @@
   [量子統計力学と恒等式](http://park.itc.u-tokyo.ac.jp/hkatsura-lab/Files/Suurikagaku_Katsura_SSD.pdf)
 
 - [統計力学を用いた進化ゲーム理論](https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/1597-40.pdf)
+- 統計力学の一般的な話
+大沢流 手づくり統計力学
+[物理学者でない人にとって平衡統計力学とは](https://www.jstage.jst.go.jp/article/jnns/14/3/14_3_218/_pdf)
+(平衡)統計力学とは無限次元で保存量を持ちエントロピーを最大にする確率分布？？
